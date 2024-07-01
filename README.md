@@ -21,7 +21,7 @@ all these methods are encrypted/decrypted with a generated key and saved in the 
 
 encrypted/decrypted messages are saved in the current folder 
 
-oroginal file are replaced with the encrypted files (BE CAREFUL) 
+original file are replaced with the encrypted files (BE CAREFUL) 
 
 
 you can encrypt a specified folder by providing full path or the current folder by just pressing Enter when the path requested 
